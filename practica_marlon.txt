@@ -1,0 +1,3 @@
+Alumno: Huayra Coyo Marlon
+Curos: 3"A"
+Materia: Gestion de Software
